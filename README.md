@@ -28,7 +28,7 @@ Unplug relevant cabling to components.
 - HD Audio connectors
 - USB motherboard connectors
 - Remove GPU
-- Remove old motherboard. Usually 5 screws
+- Remove old motherboard. Usually 8 screws
 - Remove old IO shield
 
 ### BEFORE INSTALLING NEW MOTHERBOARD INTO CASE
