@@ -62,7 +62,7 @@ Drop CPU into socket. It will drop straight down into the socket with no pressur
 Lower and slide the CPU socket lever around the latch to lock it in place.
 
 CPU cooler install
-- Take your time! AM4 coolers can be annoying.
+Take your time! AM4 coolers can be annoying.
 
 Note the metal backplate on the backside of the motherboard.
 Set the motherboard interior white box out of the packaging if you have it.
