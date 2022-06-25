@@ -26,11 +26,10 @@ Unplug relevant cabling to components.
 - SATA data (usually near bottom right)
 - Front IO connectors
 - HD Audio connectors
-- USB motherboard connectors.
-Remove GPU.
-Remove old motherboard.
-- Usually 5 screws.
-Remove old IO shield.
+- USB motherboard connectors
+- Remove GPU
+- Remove old motherboard. Usually 5 screws
+- Remove old IO shield
 
 ### BEFORE INSTALLING NEW MOTHERBOARD INTO CASE
 
