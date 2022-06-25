@@ -91,7 +91,7 @@ Check to make sure your standoffs are in the right place in the case.
 The screws for the standoffs go into holes surrounded by stripes.
 
 Place the motherboard into the case
-- Line up the peg standoff and slike the motherboard into the case with the IO panel in first
+- Line up the peg standoff and slide the motherboard into the case with the IO panel in first
 - The motherboard may need a little pressure against the case to get the standoffs lined up
 Screw the motherboard screws into the standoffs
 - Usually 8 screws for this new motherboard's size
