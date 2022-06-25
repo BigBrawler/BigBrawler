@@ -38,8 +38,7 @@ Set motherboard on top of anti-static ESD bag that the motherboard came in if yo
 
 NVMe install
 - Remove aluminium NVMe cover plate (near bottom right)
-- Install NVMe stand-off screw into hole for 2280 (80mm) NVMe
-- [https://dlcdnwebimgs.asus.com/files/media/2769A830-9807-4688-BE34-D9E7402BF48D/v1/img/connectivity/m.2.png]
+- Install NVMe stand-off screw into hole for 2280 (80mm) NVMe [https://dlcdnwebimgs.asus.com/files/media/2769A830-9807-4688-BE34-D9E7402BF48D/v1/img/connectivity/m.2.png]
 - Install NVMe in to slot like a laptop ram stick
 - When it's all the way in you won't be able to see copper contacts
 - Install tiny screw that comes with NVMe standoff onto standoff
