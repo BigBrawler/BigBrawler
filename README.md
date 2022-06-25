@@ -52,7 +52,7 @@ CPU install
 
 
 Use the triangle trick to orient CPU correctly.
-Optional video [https://youtu.be/oqWAtk5emNs?t=133].
+Optional video [https://youtu.be/oqWAtk5emNs?t=133]
 - Find the corner with a pressed triangle on the CPU socket (bottom left)
 - Find the corner with a gold triangle on CPU (bottom left)
 - The two triangles should be in the same corner
