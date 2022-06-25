@@ -61,7 +61,7 @@ Press the CPU socket lever and slide it away from the socket a bit to open the s
 Drop CPU into socket. It will drop straight down into the socket with no pressure.
 Lower and slide the CPU socket lever around the latch to lock it in place.
 
-CPU cooler install
+CPU cooler install.
 Take your time! AM4 coolers can be annoying.
 
 Note the metal backplate on the backside of the motherboard.
